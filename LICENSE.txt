@@ -1,0 +1,99 @@
+LRD – Local Record Desk – Freeware-Lizenz / Freeware License
+Version 1.0, 2026
+
+Copyright (c) 2026 Dietmar Steffen.
+Alle Rechte vorbehalten, soweit sie nachfolgend nicht ausdrücklich eingeräumt werden.
+All rights reserved except as expressly granted below.
+
+DEUTSCHE FASSUNG
+=================
+
+1. Kostenlose Nutzung
+LRD - Local Record Desk darf zeitlich unbeschränkt kostenlos für private und geschäftliche Zwecke
+genutzt werden. Für die Nutzung der Software selbst fallen keine Lizenzgebühren an.
+
+2. Unveränderte Weitergabe
+Das vollständige, unveränderte Originalpaket darf kostenlos weitergegeben und zum
+kostenlosen Download angeboten werden. Dabei müssen diese LICENSE.txt sowie alle zum
+Paket gehörenden Drittanbieter-Hinweise und Lizenzdateien vollständig und unverändert
+enthalten bleiben.
+
+3. Kein Verkauf und keine kostenpflichtige Weitergabe
+LRD - Local Record Desk darf ohne vorherige schriftliche Genehmigung des Rechteinhabers nicht
+verkauft, gegen Lizenzgebühr angeboten oder Bestandteil eines kostenpflichtigen
+Softwarepakets werden. Zulässig sind lediglich angemessene, nachweisbare Kosten für ein
+physisches Datenträgermedium oder den reinen Übertragungsvorgang.
+
+4. Keine Weitergabe veränderter Versionen
+Diese Lizenz erteilt keine Erlaubnis, veränderte, gepatchte, umbenannte, abgeleitete oder
+anderweitig modifizierte Versionen von LRD - Local Record Desk weiterzugeben oder zu
+veröffentlichen. Gesetzlich zwingende Rechte, insbesondere soweit sie nicht vertraglich
+ausgeschlossen werden dürfen, bleiben unberührt.
+
+5. Programmdaten und Inhalte
+Diese Lizenz gewährt keinerlei Rechte an Datenbankinhalten, Bildern, Beschreibungen,
+Musikdaten oder sonstigen Inhalten, die ein Anwender importiert, erfasst oder exportiert.
+Für die erforderlichen Rechte an solchen Inhalten ist der jeweilige Anwender selbst
+verantwortlich.
+
+6. Gewährleistung und Haftung
+LRD - Local Record Desk wird kostenlos und ohne Zusicherung einer bestimmten Eignung oder
+Fehlerfreiheit bereitgestellt. Gesetzlich zwingende Gewährleistungs-, Haftungs- und
+Verbraucherschutzrechte bleiben unberührt.
+
+7. Drittanbieter-Komponenten
+Mitgelieferte oder technisch verwendete Drittanbieter-Komponenten unterliegen ihren
+jeweiligen eigenen Lizenzbedingungen. Hinweise hierzu befinden sich in
+THIRD_PARTY_NOTICES.txt und den zugehörigen Lizenzdateien.
+
+8. Öffentliche Freeware-Ausgabe
+Die öffentliche Freeware-Ausgabe enthält keine persönlichen Datenbanken, Passwörter,
+Backups oder privaten MDB-Migrationswerkzeuge des Entwicklers. Import- und
+Exportfunktionen innerhalb der veröffentlichten Anwendung sind hiervon nicht betroffen.
+
+ENGLISH VERSION
+===============
+
+1. Free use
+LRD - Local Record Desk may be used free of charge, without a time limit, for private and
+commercial purposes. No license fee is charged for use of the software itself.
+
+2. Redistribution of unmodified copies
+The complete and unmodified original package may be redistributed free of charge and may
+be offered as a free download, provided this LICENSE.txt and all third-party notices and
+license files belonging to the package remain included and unchanged.
+
+3. No sale or paid redistribution
+Without prior written permission from the copyright holder, LRD - Local Record Desk may not be
+sold, licensed for a fee, or included as part of a paid software package. Reasonable and
+demonstrable charges covering only a physical medium or the transmission itself are
+permitted.
+
+4. No redistribution of modified versions
+This license does not grant permission to redistribute or publish modified, patched,
+renamed, derived, or otherwise altered versions of LRD - Local Record Desk. Mandatory statutory
+rights that cannot legally be excluded remain unaffected.
+
+5. User data and content
+This license grants no rights to database contents, images, descriptions, music data, or
+other content entered, imported, or exported by a user. Users are responsible for having
+the necessary rights to such content.
+
+6. Warranty and liability
+LRD - Local Record Desk is provided free of charge without a promise of fitness for a particular
+purpose or freedom from defects. Mandatory statutory warranty, liability, and consumer
+protection rights remain unaffected.
+
+7. Third-party components
+Third-party components distributed with or technically used by LRD - Local Record Desk remain
+subject to their own license terms. See THIRD_PARTY_NOTICES.txt and the accompanying
+license files.
+
+8. Public freeware edition
+The public freeware edition does not contain the developer's personal databases,
+passwords, backups, or private MDB migration utilities. User-facing import and export
+features in the released application are not affected by this provision.
+
+Bei inhaltlichen Abweichungen zwischen den Sprachfassungen ist für diese Lizenz die
+deutsche Fassung maßgeblich.
+In the event of a discrepancy between the language versions, the German version governs.

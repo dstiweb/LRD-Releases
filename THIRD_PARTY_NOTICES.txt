@@ -1,0 +1,17 @@
+LRD – Local Record Desk – Drittanbieter-Hinweise / Third-Party Notices
+
+ÖFFENTLICHE FREEWARE-AUSGABE / PUBLIC FREEWARE EDITION
+-------------------------------------------------------
+Die veröffentlichte Anwendung verwendet bzw. kann beim Erzeugen der Windows-EXE
+Komponenten aus folgenden Projekten enthalten. Deren jeweilige Lizenztexte werden im
+Release-Paket beibehalten:
+
+- CPython / Python Software Foundation – PSF License
+- Tcl/Tk – Tcl/Tk license terms
+- SQLite – Public Domain
+- Nuitka – der Compiler selbst steht aktuell unter AGPLv3. Fuer die von Nuitka
+  erzeugte Runtime gilt die "Nuitka Runtime Library Exception". Diese erlaubt,
+  den erzeugten Target Code unter eigenen Bedingungen (hier: LRD-Freeware)
+  weiterzugeben. Nuitka selbst wird nicht mit LRD - Local Record Desk ausgeliefert.
+
+Das private MDB→CSV-Werkzeug wird separat verteilt und ist nicht Bestandteil dieses Pakets.
